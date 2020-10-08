@@ -1,4 +1,9 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=istornz&show_icons=true&theme=dracula">
+
+### Hi there 👋 it' me Dimitri 🐧
+
+[![https://twitter.com/iPhoneRetro](https://img.shields.io/badge/follow%20me-twitter-green?style=for-the-badge)](https://twitter.com/iPhoneRetro)
+[![https://dimitridessus.fr/](https://img.shields.io/badge/visit-website-orange?style=for-the-badge)](https://dimitridessus.fr/)
 
 <!--
 **istornz/istornz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
