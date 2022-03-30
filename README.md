@@ -6,6 +6,12 @@
 [![https://dimitridessus.fr/](https://img.shields.io/badge/visit-website-orange?style=for-the-badge)](https://dimitridessus.fr/)
 [![https://www.youtube.com/user/theiphoneretro](https://img.shields.io/badge/check-youtube-red?style=for-the-badge)](https://www.youtube.com/user/theiphoneretro)
 
-Développeur fullstack d’applications mobiles 📱
+Fullstack mobile apps developer 📱
 
 In love with Flutter <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" height="18" /> & Dart <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" height="18" />
+
+<br />
+
+<center>
+  <img align='center' src="https://github-profile-trophy.vercel.app/?username=istornz&theme=dracula&margin-w=15&margin-h=15&column=7">
+</center>
