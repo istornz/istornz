@@ -12,7 +12,7 @@ In love with Flutter <img src="https://cdn.worldvectorlogo.com/logos/flutter-log
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,angular,appwrite,bootstrap,sass,dart,docker,firebase,flutter,git,html,js,raspberrypi,ts,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,angular,appwrite,bootstrap,sass,dart,docker,firebase,flutter,git,html,js,raspberrypi,ts,vscode&theme=dark)](https://dimitridessus.fr/)
 
 <br />
 
