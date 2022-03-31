@@ -12,6 +12,10 @@ In love with Flutter <img src="https://cdn.worldvectorlogo.com/logos/flutter-log
 
 <br />
 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,angular,appwrite,bootstrap,sass,dart,docker,firebase,flutter,git,html,js,raspberrypi,ts,vscode&theme=dark)](https://skillicons.dev)
+
+<br />
+
 <center>
   <img align='center' src="https://github-profile-trophy.vercel.app/?username=istornz&theme=dracula&margin-w=15&margin-h=15&column=7">
 </center>
