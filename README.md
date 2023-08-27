@@ -2,7 +2,7 @@
 
 ### Hello 👋 it's me Dimitri 🐧
 
-[![https://twitter.com/iPhoneRetro](https://img.shields.io/badge/follow%20me-twitter-green?style=for-the-badge)](https://twitter.com/iPhoneRetro)
+[![https://x.com/iPhoneRetro](https://img.shields.io/badge/follow%20me-x-black?style=for-the-badge)](https://twitter.com/iPhoneRetro)
 [![https://dimitridessus.fr/](https://img.shields.io/badge/visit-website-orange?style=for-the-badge)](https://dimitridessus.fr/)
 [![https://www.youtube.com/user/theiphoneretro](https://img.shields.io/badge/check-youtube-red?style=for-the-badge)](https://www.youtube.com/user/theiphoneretro)
 
