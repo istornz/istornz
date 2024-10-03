@@ -14,7 +14,7 @@ In love with Flutter <img src="https://cdn.worldvectorlogo.com/logos/flutter-log
 
 <div align="center">
   <a href="https://radion-app.com" target="_blank" alt="Radion - Ultimate gaming app">
-    <img src="https://raw.githubusercontent.com/istornz/live_activities/main/images/radion.png" width="700px" alt="Radion banner - Ultimate gaming app" />
+    <img src="https://raw.githubusercontent.com/istornz/live_activities/main/images/radion.webp" width="700px" alt="Radion banner - Ultimate gaming app" />
   </a>
 </div>
 <br />
