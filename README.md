@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=istornz&show_icons=true&theme=dracula">
-
 ### Hello 👋 it's me Dimitri 🐧
 
 [![https://x.com/iPhoneRetro](https://img.shields.io/badge/follow%20me-x-black?style=for-the-badge)](https://twitter.com/iPhoneRetro)
@@ -23,6 +21,4 @@ In love with Flutter <img src="https://cdn.worldvectorlogo.com/logos/flutter-log
 
 <br />
 
-<center>
-  <img align='center' src="https://github-profile-trophy.vercel.app/?username=istornz&theme=dracula&margin-w=15&margin-h=15&column=7">
-</center>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=istornz)](https://git.io/streak-stats)
